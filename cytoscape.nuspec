@@ -3,7 +3,7 @@
   <metadata>
     <id>cytoscape</id>
     <version>3.10.2</version>
-    <title>cytoscape</title>
+    <title>Cytoscape</title>
     <authors>Cytoscape Consortium</authors>
     <owners>awatchanaman</owners>
     <licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
@@ -18,7 +18,7 @@
     <docsUrl>http://www.cytoscape.org/documentation_users.html</docsUrl>
     <bugTrackerUrl>https://cytoscape.org/bug-report.html</bugTrackerUrl>
     <dependencies>
-      <dependency id="zulu17" />
+      <dependency id="zulu17" version="17.28.13.0"/>
     </dependencies>
   </metadata>
 </package>
