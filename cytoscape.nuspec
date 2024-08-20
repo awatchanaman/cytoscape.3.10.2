@@ -5,7 +5,7 @@
     <version>3.10.2</version>
     <title>cytoscape</title>
     <authors>Cytoscape Consortium</authors>
-    <owners>awatcha</owners>
+    <owners>awatchanaman</owners>
     <licenseUrl>http://www.cytoscape.org/download.php</licenseUrl>
     <projectUrl>http://www.cytoscape.org/index.html</projectUrl>
     <iconUrl>https://cytoscape.org/images/logo/cy3logoOrange.svg</iconUrl>
@@ -14,7 +14,7 @@
     <summary>Network Data Integration, Analysis, and Visualization in a Box</summary>
     <releaseNotes>http://www.cytoscape.org/releasenotes.html</releaseNotes>
     <tags>cytoscape graph visualization analysis</tags>
-    <packageSourceUrl>https://github.com/awatchanaman/cytoscape-3.10.2</packageSourceUrl>
+    <packageSourceUrl>https://github.com/awatchanaman/cytoscape.3.10.2</packageSourceUrl>
     <docsUrl>http://www.cytoscape.org/documentation_users.html</docsUrl>
     <bugTrackerUrl>https://cytoscape.org/bug-report.html</bugTrackerUrl>
     <dependencies>
